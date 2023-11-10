@@ -9,7 +9,7 @@ function firstPageAnim(){
   tl.from("#nav", {
     y:'-10',
     opacity:0,
-    duration:1,
+    duration:2,
     ease: Expo.easeInOut
   })
   .to(".boundingelem", {
