@@ -25,8 +25,9 @@ html,body{
 }
 
 .bounding .boundingelem{
-  transform: translateY(50%);
+  transform: translateY(100%);
 }
+
 #main{
   width: 100%;
   height: auto;
@@ -71,6 +72,9 @@ html,body{
 } 
 
 .blocktext{
+  display: flex;
+  flex-direction: column;
+  align-items:end ;
   width: fit-content;
 }
 
@@ -81,11 +85,14 @@ html,body{
 }
 
 #chotiheading{
+  display: flex;
+  flex-direction: column;
+  align-items: end;
   margin-top: 100px;
   padding: 50px;
 }
 
-#chotiheading{
+#chotiheading h5{
   text-align: right;
   margin-top: .5vw;
   text-transform: uppercase;
