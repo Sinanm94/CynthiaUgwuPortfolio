@@ -28,15 +28,15 @@ This will open the project in Visual Studio Code.
 Open index.html in your web browser or by using a VS Code extension like "Live Server" to view the website.
     ```Open with Live Server
 
-##Usage
+## Usage
 This project serves as an educational resource for learning web development concepts. Feel free to explore and modify the code to enhance your understanding.
 
-##Directory Structure
+## Directory Structure
 index.html: Main HTML file.
 loco.css: CSS file for Locomotive Scroll styles.
 Project1.css: Additional CSS styles for the project.
 script.js: Main JavaScript file.
 plug.png, ixperience.png, hudu.png: Images used in the project.
 
-##Issues and Enhancements
+## Issues and Enhancements
 If you encounter any issues or have suggestions for improvements, please open an issue on GitHub.
