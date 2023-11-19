@@ -31,6 +31,7 @@ html,body{
 #main{
   width: 100%;
   height: auto;
+  background-color: black;
 }
 #hero{
   position: relative;
@@ -162,12 +163,14 @@ html,body{
 }
 
 .elem img{
-  display: none;
+  display: flex;
   height: 140%;
   opacity: 0;
   z-index: 999;
-  position:absolute;
+  position: absolute;
+  transition: opacity 0.3s ease;
 }
+
 
 #about{
   display: flex;
