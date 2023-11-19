@@ -40,3 +40,10 @@ plug.png, ixperience.png, hudu.png: Images used in the project.
 
 ## Issues and Enhancements
 If you encounter any issues or have suggestions for improvements, please open an issue on GitHub.
+
+## Note
+This project is an educational endeavor inspired by a YouTube tutorial, focusing on practical applications of HTML, CSS, and JavaScript in web development. The content and portfolio details are fictional and created for learning purposes.
+
+Feel free to customize and expand upon this project as you continue your web development journey.
+
+Happy coding! 🚀
